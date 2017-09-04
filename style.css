@@ -1,0 +1,87 @@
+body{
+    width: 1040px;
+    margin: auto;
+    background-color: rgba(246, 201, 20, 0.52);
+}
+.header-form{
+    width: 960px;
+    margin: auto;
+}
+.header-form ul{
+    list-style: none ;
+}
+.header-form ul li{
+    display: inline;
+    padding-left: 10px;
+}
+.header-form ul li button{
+    font-family: "Comic Sans MS";
+    font-size: 2em;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+.enter-form{
+    position: absolute;
+    width: 960px;
+    margin: auto;
+    padding-left: 30px;
+    display: none;
+}
+.enter-form label{
+    display: block;
+    font-family: "Comic Sans MS";
+    font-size: 2em;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+.enter-form label input{
+    font-family: "Comic Sans MS";
+    font-size: 1em;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    border: solid 1px #000;
+}
+#Add{
+    font-family: "Comic Sans MS";
+    font-size: 1.5em;
+    padding-right: 30px;
+    padding-left: 30px;
+
+}
+#Cancel{
+    font-family: "Comic Sans MS";
+    font-size: 1.5em;
+    padding-right: 30px;
+    padding-left: 30px;
+
+    margin-left: 30px;
+}
+.enter-form button{
+    position: relative;
+    left: 30px;
+}
+#id1{
+    font-family: "Comic Sans MS";
+    font-size: 1em;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.lastname{
+    float: left;
+    padding-right: 50px;
+}
+.name{
+    float: left;
+    padding-right: 50px ;
+}
+.phone{
+    float: left;
+    padding-right: 50px ;
+}
+.email{
+    float: left;
+    padding-right: 50px ;
+}
